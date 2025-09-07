@@ -19,7 +19,9 @@ Welcome to the **largest open-source collection of production-grade n8n workflow
 ## 📂 Folder Highlights
 
 ### 🔧 General Templates
+
 Stored under root directory with real-world workflows such as:
+
 - Slack to Notion syncs
 - RSS-to-WordPress publishing
 - AI resume classifiers
@@ -29,30 +31,39 @@ Stored under root directory with real-world workflows such as:
 ### 🚀 Templates by Platform
 
 #### 🟡 AWS
+
 Automate AWS Lambda, CloudWatch, and security workflows with Slack, email, or external APIs.
 
 #### 📚 ArXiv
+
 Connect OpenAI, Google Scholar, and ArXiv for research workflow automation, including academic summarization and paper classification.
 
 #### 🏘 Zillow (Real Estate)
+
 Fetch property listings, sync data with Notion, Google Sheets, or email leads instantly.
 
 #### 💡 Philips Hue (Home Automation)
+
 Automate lights, IFTTT, and Home Assistant with rich webhook-driven logic and schedulers.
 
 #### 📸 Instagram
+
 Cross-posting, analytics extraction, OpenAI content creation, and more.
 
 #### 💬 OpenAI
+
 Chatbots, AI summaries, document classification, and RAG pipelines integrated with LangChain and vector DB.
 
 #### 🔗 LinkedIn
+
 Auto-post content, track reactions, scrape data, and even connect OpenAI for content suggestions.
 
 #### 📞 Twilio
+
 Message automation, health alerts, and smart integrations with Google Fit, Fitbit, and Slack.
 
 #### 💰 Stripe
+
 Track transactions, notify via Slack, send invoices, or sync payments to Sheets/Xero.
 
 ---
@@ -99,16 +110,6 @@ Have a cool real-world automation idea? Help expand the library!
 2. Add your `.json` workflow under the relevant platform/category
 3. Name it descriptively
 4. Submit a pull request
-
----
-
-## 🧠 Maintained by
-
-**Mahmoud Salheen**  
-📍 Automations | AI Workflows | Open Source Advocate  
-🔗 [GitHub](https://github.com/Salheen10) | [Linkedin](https://www.linkedin.com/in/mahmoud-salheen-10/) | [Instagram](https://www.instagram.com/mahmoud__salheen)
-
-
 
 ---
 
